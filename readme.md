@@ -113,3 +113,5 @@ Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
 - Retza       : B 4010
 - Bambang     : B 9018
 - Esa         : B 9793
+
+Kemungkinan driver bertukar kendaraan. Pastikan ulang dan cek dari Grup WA Ekspedisi SMR
