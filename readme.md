@@ -10,7 +10,7 @@
    - Input (SO) di [Wordpress Preorder](https://manggalla.com/sarwa/pesanan/)
    - SO SF: Pisahkan lembar hijau dari SO besar dan faktur, lalu input di wordpress preorder untuk SO besar dan [Wordpress Wellness Administrasi](https://manggalla.com/wellness/administrasi/) untuk faktur.
      - Berikan SO besar ke Finance, Accounting, and Tax(FAT) (Bu Hotma) untuk FAT check.
-     - Info ke Pak Dany atau Pak Rafli untuk dibuatkan Surat Jalan (SJ).
+     - Setelah FAT check di ACC, info ke Pak Dany atau Pak Rafli untuk dibuatkan Surat Jalan (SJ).
      - Cap TTD dan Logo SMR di tiap lembar SJ.
      - TTD Apoteker Penanggung Jawab (APJ).
      - Turunin SJ ke gudang untuk dikirim.
@@ -42,7 +42,12 @@
      - Validasi di Wordpress Validasi Pesanan.
    - SO SF Cirebon & Bandung (SF/CRB & SF/BDG): Sama seperti SO SF, namun FAT check ke Bu Atika.
 
-3. Print Laporan Harian Driver.
+3. Input surat jalan lembar kuning ke Outbound [Outbound](https://manggalla.com/sarwa/outbound/)
+    - Satu batch no satu inputan
+    - SJ time hari itu jam 9
+    - Invoice time hari itu jam 9.30
+    - No plat nomor, tergantung driver. Lihat ke [Nama dan Plat Nomor Driver](#nama-dan-plat-nomor-driver)
+4. Print Laporan Harian Driver.
 
 ## Panduan Filing/Digitalisasi Dokumen Balikan:
 
