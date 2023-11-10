@@ -38,7 +38,7 @@ Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
      - Perhatikan mana SO yang di ACC, bisa di cek di [Logbook](https://docs.google.com/spreadsheets/d/1pcjYibnJNEp1jow9mpJSb63-fyGkOAodVwL1WblVtpM/edit#gid=642080019).
      - Info print SJ untuk SO yang di ACC.
      - Gabungkan lembar PO dan SJ, untuk beberapa customer tertentu diperlukan invoice.
-     - Berikan SJ dan SO ke FAT untuk dibuatkan invoice. List customer dibawah.
+     - Berikan SJ dan SO ke FAT untuk dibuatkan invoice. [List customer](#list-customer-mt-yang-memerlukan-invoice)
      - Cap TTD dan Logo SMR di tiap lembar SJ dan SO.
      - Turunkan ke bawah untuk dikirim.
      - Validasi di Wordpress Validasi Pesanan.
@@ -49,13 +49,13 @@ Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
     - SJ time hari itu jam 9
     - Invoice time hari itu jam 9.30
     - No plat nomor, tergantung driver. Lihat ke [Nama dan Plat Nomor Driver](#nama-dan-plat-nomor-driver)
+
 4. Print Laporan Harian Driver.
 
 ## Panduan Filing/Digitalisasi Dokumen Balikan:
 
 ### SD, SF JKT, GB-SD:
 - Ketik di excel.
-- Input invoice time di [WP Admin Outbound](https://manggalla.com/sarwa/wp-admin/admin.php?page=tabulate&controller=table&table=outbound)
 - Print table excel.
 - Berikan semua dokumen ke FAT (Bu Hotma).
 - TTD penerimaan dokumen balikan.
@@ -69,9 +69,6 @@ Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
 
 ### MT:
 - Ketik di excel.
-- Sesuaikan delivery time antara [WP Admin Cost Delivery](https://manggalla.com/sarwa/wp-admin/admin.php?page=tabulate&controller=table&table=cost_delivery) dan WP Admin Outbound.
-- Input cost delivery apabila belum ada.
-- Foto tiap dokumen dan upload di G-Drive OSC folder {Tahun}/{Bulan}/MT/{Tanggal}/{Kode SJ}.
 - Print table excel.
 - Berikan semua dokumen ke FAT (Pak Geren) atau FAT intern.
 - TTD penerimaan dokumen balikan.
@@ -96,6 +93,7 @@ Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
 - CV Kreasi Sukses Makmur
 - PT. Teknologi Medika Pratama
 - PT. Era Caring
+- Kimia Farma
 
 ## Jam-jam penting:
 - Jam 11.00: Pengiriman pagi untuk SF dan MT dalam kota. Biasanya PO dari PT. Sumber Alfaria Trijaya (SAT) datang dan akan dikirim di jam 11.00 di hari yang sama.
@@ -109,9 +107,9 @@ Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
 - TTD laporan driver.
 
 ## Nama dan Plat Nomor Driver
-- Jalil     : B 9728
-- Bayu      : B 5467
-- Tri       : B 9729
-- Retza     : B 9793
-- Rengga    : B 9018
-- Eko       : B 4010
+- Eko         : B 9728
+- Bayu        : B 5467
+- Mauto       : B 9729
+- Retza       : B 4010
+- Bambang     : B 9018
+- Esa         : B 9793
