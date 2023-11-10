@@ -4,6 +4,8 @@
 
 ## Tugas Utama:
 
+Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
+
 1. Pisahkan dokumen balikan hari sebelumnya per segmen market dan digitalisasi/filing dokumen balikan.
    
 2. Sales Order(SO) masuk dari Sales & Marketing (SM):
