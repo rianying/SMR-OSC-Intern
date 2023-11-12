@@ -73,6 +73,11 @@ Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
 - Berikan semua dokumen ke FAT (Pak Geren) atau FAT intern.
 - TTD penerimaan dokumen balikan.
 
+## Automasi
+
+Sangat disarankan menggunakan otomisasi input preorder, validasi, dan balikan dokumen.
+Refer ke [WPAutomate](https://github.com/rianying/WPAutomate)
+
 ## Panduan Pengembalian Dokumen SO:
 
 1. Urutkan file yang terbesar sampai terkecil berdasarkan nomor SO.
