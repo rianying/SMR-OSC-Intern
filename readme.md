@@ -44,7 +44,7 @@ Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
      - Validasi di Wordpress Validasi Pesanan.
    - SO SF Cirebon & Bandung (SF/CRB & SF/BDG): Sama seperti SO SF, namun FAT check ke Bu Atika.
 
-3. Input surat jalan lembar kuning ke Outbound [Outbound](https://manggalla.com/sarwa/outbound/)
+3. Input surat jalan lembar kuning ke [Outbound](https://manggalla.com/sarwa/outbound/)
     - Satu batch no satu inputan
     - SJ time hari itu jam 9
     - Invoice time hari itu jam 9.30
