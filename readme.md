@@ -51,6 +51,7 @@ Berurutan mulai dari pagi - sore. Silahkan diatur sesuai kebutuhan
     - No plat nomor, tergantung driver. Lihat ke [Nama dan Plat Nomor Driver](#nama-dan-plat-nomor-driver)
 
 4. Print Laporan Harian Driver.
+[Link Document Manual](https://docs.google.com/document/d/1ZoA9T7PFwKXfAMxYduhBhbF7nA1RbRKW/edit?usp=sharing&ouid=111421654737140850251&rtpof=true&sd=true)
 
 ## Panduan Filing/Digitalisasi Dokumen Balikan:
 
